@@ -1,4 +1,8 @@
 # javascript-challenges
-A repository to add all javascript challenges to improve it
+
+This repository was created to add all javascript process.
+
+A great to way to improve it by using the site above.
+It is basically a website with many challenges to improve JavaScript.
 
 > https://edabit.com/challenges
